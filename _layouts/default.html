@@ -28,10 +28,10 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/{{ site.headurl }}/">Posts</a>
-            <a href="{{ site.baseurl }}/{{ site.headurl }}/projects">Projects</a>
-            <a href="{{ site.baseurl }}/{{ site.headurl }}/categories">Categories</a>
-            <a href="{{ site.baseurl }}/{{ site.headurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/">Posts</a>
+            {% for part in site.structure %}
+              <a href="{{ site.baseurl }}{{ part.url }}">{{ part.title }}</a>
+            {% endfor %}
           </nav>
         </header>
       </div>
