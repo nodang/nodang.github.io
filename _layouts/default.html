@@ -27,12 +27,11 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <var>header_path = "{{ site.baseurl }}/_stucture"</var>
           <nav>
-            <a href="{{ header_path }}/l">Posts</a>
-            <a href="{{ header_path }}/projects">Projects</a>
-            <a href="{{ header_path }}/categories">Categories</a>
-            <a href="{{ header_path }}/about">About</a>
+            <a href="{{ site.header }}/">Posts</a>
+            <a href="{{ site.header }}/projects">Projects</a>
+            <a href="{{ site.header }}/categories">Categories</a>
+            <a href="{{ site.header }}/about">About</a>
           </nav>
         </header>
       </div>
