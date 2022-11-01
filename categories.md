@@ -5,5 +5,5 @@ permalink: /categories/
 ---
 
 
-[Line Tracer: Gara](https://github.com/nodang/LineTracer_Gara){: .btn .btn--primary }
+[Line Tracer: Gara](https://github.com/nodang/LineTracer_Gara){: .btn}
 
