@@ -12,5 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[noj7413@gmail.com]
-[noj7413@naver.com]
+[noj7413@gmail.com](noj7413@gmail.com)
+
+[noj7413@naver.com](noj7413@naver.com)
