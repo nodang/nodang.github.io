@@ -29,8 +29,8 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Posts</a>
-            {% for part in site.structure %}
-              <a href="{{ site.baseurl }}/">{{ part.title }}</a>
+            {% for page in site.pages %}
+              <a href="{{ site.baseurl }}/">{{ page.title }}</a>
             {% endfor %}
           </nav>
         </header>
