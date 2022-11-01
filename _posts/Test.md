@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Test
+title: test
+permalink: /Test
+data: 2022-11-01
 ---
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+test
