@@ -4,7 +4,7 @@
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: &URL https://nodang.github.io
+url: &url https://nodang.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -19,7 +19,7 @@ name: Nodang's Github Pages
 description: description
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {*URL}/images/jekyll-logo.png
+avatar: {*url}/images/jekyll-logo.png
 
 #
 # Flags below are optional
