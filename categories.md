@@ -1,9 +1,5 @@
 ---
-layout: page
+layout: category
 title: Categories
 permalink: /categories/
 ---
-
-
-[Line Tracer: Gara](https://github.com/nodang/LineTracer_Gara){: .btn}
-
