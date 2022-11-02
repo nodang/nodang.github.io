@@ -28,7 +28,7 @@ body {
   // max-width: 740px;
   max-width: 100%;
   // padding: 0 10px;
-  padding: 10px 70px;
+  padding: 0px 60px;
   width: 100%;
 }
 
@@ -207,7 +207,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 24px;
 
   @include mobile {
     margin: 3px 0;
@@ -216,9 +216,9 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 45px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
