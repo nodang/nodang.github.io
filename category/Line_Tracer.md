@@ -1,4 +1,4 @@
 ---
 layout: category
-title: Line_Tracer
+title: Line-Tracer
 ---
