@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Walking Robot Simulation Using Gazebo"
 # Line-Tracer Exhibition Contest Study
 categories: [ Exhibition ]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Sumo Robot
 # Line-Tracer Exhibition Contest Study
 categories: [ Contest ]

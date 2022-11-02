@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: "Line Follower Drone"
 # Line-Tracer Exhibition Contest Study
 categories: [ Exhibition ]
