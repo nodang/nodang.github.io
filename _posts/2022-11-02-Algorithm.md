@@ -1,6 +1,6 @@
 ---
 layout: post
-title: nothing
+title: Algorithm
 # Line-Tracer Exhibition Contest Study
 categories: [ Study ]
 tags: [ Study ]
@@ -11,4 +11,4 @@ data: 0000-00-00
 published: true
 ---
 
-content
+[Github](https://github.com/nodang/2022_Algorithm)
