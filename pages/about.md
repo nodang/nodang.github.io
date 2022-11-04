@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Profile
+permalink: /profile/
 ---
-
-## Profile
 
 <div class="site-avatar">
   <img src="../images/profile_picture.jpg">
