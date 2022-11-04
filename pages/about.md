@@ -5,12 +5,10 @@ permalink: /about/
 ---
 
 ## Profile
-
+<p>
 <div class=pull-left>
-  (../images/404.jpg)
+  <img src="../images/404.jpg" float width="100"/>
 </div>
-
-<div class=pull-right>
 
 이름 : 노호진
 
@@ -23,6 +21,7 @@ permalink: /about/
 소속 : MAZE(마이크로 로봇 연구 학술회)
 
 </div>
+</P>
 
 ## Contact me
 
