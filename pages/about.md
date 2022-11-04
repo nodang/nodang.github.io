@@ -6,9 +6,7 @@ permalink: /about/
 
 ## Profile
 
-<div class=pull-left>
-<img src="../images/404.jpg" width="100"/>
-</div>
+![](../images/404.jpg){: .align-right}
 
 이름 : 노호진
 
