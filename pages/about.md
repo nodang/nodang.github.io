@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 ## Profile
-<p>
+
 <div class=pull-left>
-  <img src="../images/404.jpg" float width="100"/>
+<img src="../images/404.jpg" width="100"/>
 </div>
 
 이름 : 노호진
@@ -19,9 +19,6 @@ permalink: /about/
 관심분야 : Embeded Linux, OS, System Programming, Micro Processor, Robotics
 
 소속 : MAZE(마이크로 로봇 연구 학술회)
-
-</div>
-</P>
 
 ## Contact me
 
