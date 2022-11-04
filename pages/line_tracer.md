@@ -24,6 +24,12 @@ permalink: /line-tracer/
 Gara(가라) : 2020년 1월 ~ 2022년 9월   
 CAM(캠) : 2022년 7월 ~ 2022년 9월
 
+## 사용 소프트웨어
+
+1. Source Insight
+2. Solid Works
+3. Matlab
+
 ## 제작 목적
 
  1. 로봇 제작을 처음 시작할 때 추천되는 로봇인 라인 트레이서는 다른 로봇에 비해 접근이 쉽다.   

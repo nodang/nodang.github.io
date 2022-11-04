@@ -14,8 +14,12 @@ permalink: /profile/
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; MAZE(마이크로 로봇 연구 학술회)   
 관심분야 : Embeded Linux, OS, System Programming, Micro Processor, Robotics
 
+&nbsp;
+
  - 경력사항   
  단국대학교 학사 졸업예정( 2017.03 ~ 2024.02)
+
+ &nbsp;
 
  - 수상내역   
     - 개인   
@@ -29,6 +33,8 @@ permalink: /profile/
     2020 성균관 대학교 공학교육혁신선도센터 창의적 종합설계 경진대회 - **우수상**   
     2020 CON2ECT 창의연구 경진대회 - **우수상**   
     2022 충남 로봇융합 페스티벌 지능형 창작로봇 경진대회 3D 트레이서 부문 - **대상(1위)**
+
+&nbsp;
 
 ## Contact me
 
