@@ -6,7 +6,9 @@ permalink: /about/
 
 ## Profile
 
-<img src="../images/404.jpg" align="left" width="100" style="margin: 10 10">
+<div class="site-avatar">
+  <img src="../images/profile_picture.jpg">
+</div>
 
 이름 : 노호진   
 소속 : 단국대학교 4학년   
