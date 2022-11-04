@@ -19,4 +19,4 @@ permalink: /line-tracer/
 
 <!-- [![](https://img.youtube.com/vi/8kcgrF84E4c/0.jpg)](https://youtu.be/8kcgrF84E4c?start=114&end=207) -->
 
-{% include youtube.html id="8kcgrF84E4c?start=114" %}  
+<iframe width="100%" height="100%" src=" https://www.youtube.com/embed/8kcgrF84E4c?start=114" frameborder="0" allowfullscreen></iframe>
