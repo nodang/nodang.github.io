@@ -4,7 +4,7 @@ title: Profile
 permalink: /profile/
 ---
 
-<div class="site-avatar">
+<div class="profile-picture">
   <img src="../images/profile_picture.jpg">
 </div>
 

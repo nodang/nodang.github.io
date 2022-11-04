@@ -290,6 +290,23 @@ footer {
 .respondFrame { position: relative; padding-bottom: 56.25%; /* 16:9 비율인 경우. 4:3 비율인 경우 75%로 설정합니다 */ overflow: hidden; } 
 .respondFrame iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
+.profile-picture {
+  float: left;
+  width: 100px;
+  height: auto;
+  margin-right: 25px;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+
+  img {
+    border-radius: 5px;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
