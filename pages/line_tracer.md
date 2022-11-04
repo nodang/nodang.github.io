@@ -17,5 +17,5 @@ permalink: /line-tracer/
 주어진 시간 또는 제한된 주행 횟수 내에 가장 빠르게 주행하여 기록을 받아야 한다.   
 보통 주행은 탐색 주행과 가속 주행으로 나누어진다.
 
-[![]https://img.youtube.com/vi/8kcgrF84E4c/0.jpg](https://youtu.be/8kcgrF84E4c?start=114&end=207)
+[![](https://img.youtube.com/vi/8kcgrF84E4c/0.jpg)](https://youtu.be/8kcgrF84E4c?start=114&end=207)
 
