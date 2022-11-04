@@ -4,14 +4,27 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## Profile
 
-### More Information
+<div class=pull-left>
+  (../images/404.jpg)
+</div>
 
-A place to include any other types of information that you'd like to include about yourself.
+<div class=pull-right>
 
-### Contact me
+이름 : 노호진
 
-noj7413@gmail.com
+소속 : 단국대학교 4학년
 
+전공 : 전자전기공학부
+
+관심분야 : Embeded Linux, OS, System Programming, Micro Processor, Robotics
+
+소속 : MAZE(마이크로 로봇 연구 학술회)
+
+</div>
+
+## Contact me
+
+noj7413@gmail.com   
 noj7413@naver.com
