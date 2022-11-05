@@ -47,14 +47,12 @@ CAM(캠) : 2022년 7월 ~ 2022년 9월
 
 1. Using C Language
 2. 2-Phase Stepper Motor Control / Full-Step Drive
-3. Motion Control of Vehicle using **Jerk**
+3. Motion Control of Vehicle using **Jerk** and Simulation using Matlab
 
 ### [CAM: Line Follower Using Raspberry Pi](https://nodang.github.io/line-tracer/CAM/)
 
-1. Using Python3
+1. Using Python3, OpenCV2 for Image Processing
 1. SCI(Serial Communication Interface) Between DSP and Raspberry PI
-2. Thread
-3. Image Processing Using OpenCV2
 
 ## 시연 영상
 
