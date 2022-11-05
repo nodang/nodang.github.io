@@ -19,6 +19,12 @@ permalink: /line-tracer/
 주어진 시간 또는 제한된 주행 횟수 내에 가장 빠르게 주행하여 기록을 받아야 한다.   
 보통 주행은 탐색 주행과 가속 주행으로 나누어진다.
 
+## 제작 목적
+
+ 1. 로봇 제작을 처음 시작할 때 추천되는 로봇인 라인 트레이서는 다른 로봇에 비해 접근이 쉽다.   
+ 2. 빠르게 주행하려 할수록 역학, 제어, 미적분 등 다양한 분야의 지식을 필요로 하며, 최단 패스를 좇는 알고리즘에 따라 로봇의 성능 차이가 심하게 나타난다.
+ 3. 학과 전공시간에 배운 지식을 라인 트레이서에 적용시켜 실제 사용되는 방법과 이론을 습득하는 것으로 목적으로 한다.
+
 ## 개발 기간
 
 Gara(가라) : 2020년 1월 ~ 2022년 9월   
@@ -30,11 +36,25 @@ CAM(캠) : 2022년 7월 ~ 2022년 9월
 2. Solid Works
 3. Matlab
 
-## 제작 목적
+## 사용된 이론 및 기술
 
- 1. 로봇 제작을 처음 시작할 때 추천되는 로봇인 라인 트레이서는 다른 로봇에 비해 접근이 쉽다.   
- 2. 빠르게 주행하려 할수록 역학, 제어, 미적분 등 다양한 분야의 지식을 필요로 하며, 최단 패스를 좇는 알고리즘에 따라 로봇의 성능 차이가 심하게 나타난다.
- 3. 학과 전공시간에 배운 지식을 라인 트레이서에 적용시켜 실제 사용되는 방법과 이론을 습득하는 것으로 목적으로 한다.
+### 라인 트레이서 공통
+
+1. Using DSP(TMS320F2809) / GPIO, ADC, PWM, Interrupt
+2. Sliding Window Algorithm 
+
+### [Gara: Stepper Motor Line Follower](https://nodang.github.io/line-tracer/Gara/) 
+
+1. Using C Language
+2. 2-Phase Stepper Motor Control / Full-Step Drive
+3. Motion Control of Vehicle using **Jerk**
+
+### [CAM: Line Follower Using Raspberry Pi](https://nodang.github.io/line-tracer/CAM/)
+
+1. Using Python3
+1. SCI(Serial Communication Interface) Between DSP and Raspberry PI
+2. Thread
+3. Image Processing Using OpenCV2
 
 ## 시연 영상
 
