@@ -5,11 +5,17 @@ title: main
 
 ## 메뉴 설명
 
+### 상단 메뉴
+
 <ul>
   <li><a href="{{ site.baseurl }}/posts">Posts</a> : 전체 글 목록</li>
   <li><a href="{{ site.baseurl }}/categories">Catengories</a> : 프로젝트 항목별로 정리</li>
   <li><a href="{{ site.baseurl }}/profile">Profile</a> : 소개</li>
 </ul>
+
+### 하단 메뉴
+
+- 순서대로 Github, LinkedIn, Youtube, Society Homepage 이다.
 
 ---
 
